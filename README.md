@@ -1,16 +1,134 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Soumyadeep+Das;Robotics+%26+AI/ML+Enthusiast;Electronics+and+Communication+Engineer" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumyadeepdaskgec-29&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
+
 
 ## 🌐 Socials:
+<p align="center">
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/whois.das.sa.3018/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumyadeep-das-4b00ab366/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/dsoumyadeep097/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dsoumyadeep097@gmail.com) 
 
-# 💻 Tech Stack:
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+</p>
+
+---
+<table>
+<tr>
+<td width="50%">
+
+### About Me
+```verilog
+module DeepRudra (
+    input wire passion,
+    input wire [7:0] skills,
+    output reg [15:0] projects,
+    output reg innovation
+);
+    // Education: B.Tech ECE - KGEC (2023-Present)
+    
+    // Core Competencies
+    parameter ELECTRONICS = 8'b11111111;
+    parameter AI_ML = 8'b11111111;
+    parameter ROBOTICS = 8'b11111111;
+    parameter RTL_GDS = 8'b11111111;
+    
+    // Current Focus Areas
+    parameter ROS2 = 8'b11111111;
+    parameter DIGITAL_DESIGN = 8'b11111111;
+    parameter AUTONOMOUS_SYSTEMS = 8'b11111111;
+    
+    always @(*) begin
+        if (passion && skills == 8'b11111111) begin
+            projects <= 16'b1111111111111111;
+            innovation <= 1'b1;
+        end
+    end
+    // Circuits + Code + Creativity = Intelligent Machines! 
+endmodule
+```
+
+<td width="50%">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SoumyadeepDasKGEC-29&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SoumyadeepDasKGEC-29&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadeepDasKGEC-29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</td>
+</tr>
+</table></td>
+</tr>
+</table>
+
+# 💻 Tech Stack:
+
+![ROS](https://img.shields.io/badge/ROS2-22314E?style=plastic&logo=ros&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=plastic&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SoumyadeepDasKGEC-29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## Projects & Professional Journey
+
+<table>
+<tr>
+<td width="50%">
+
+### Featured Projects
+<small>
+
+| **Project** | **Tech** | **Impact** |
+|-------------|----------|------------|
+| 🛰 **ISRO Mars Drone** | Pixhawk, Raspberry Pi | 90%+ stability |
+|  **e-Yantra Warehouse** | ROS2, CRSF | Millimeter precision |
+|  **Smart Security** | ESP32-CAM, Flask | Real-time monitoring |
+|  **Air Canvas** | OpenCV, Python | Real-time tracking |
+|  **FPGA Design** | Verilog, Xilinx | Hardware optimization |
+
+</small>
+
+</td>
+<td width="50%">
+
+### Work Experience & Achievements
+<small>
+
+| **Organization** | **Role** | **Duration** |
+|------------------|----------|--------------|
+| **KGEC Robotics Society** | Member (Former Intern) | Mar 2024 – Present |
+| **ADAOVI Technology** | AI/ML Intern | Jan 2024 – Mar 2024 |
+
+#### Certifications & Learning
+- **Quantum Computing** - CDAC & IIT Roorkee
+- **IBM Skills Build** - ML/DL/NLP
+- **TensorFlow, Scikit-learn** - ADAOVI
+
+</small>
+
+</td>
+</tr>
+</table>
+
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumyadeepdaskgec-29/SoumyadeeoDasKGEC-29/output/github-contribution-grid-snake-dark.svg" alt="Snake contributions dark"/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
@@ -20,5 +138,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SoumyadeepDasKGEC-29&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
