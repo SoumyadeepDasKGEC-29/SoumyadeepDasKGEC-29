@@ -21,25 +21,24 @@
 <td width="50%">
 
 ### About Me
-```verilog
-module DeepRudra (
+``` C
+module SoumyadeepDas (
     input wire passion,
     input wire [7:0] skills,
-    output reg [15:0] projects,
+    output reg [2:0] projects,
     output reg innovation
 );
-    // Education: B.Tech ECE - KGEC (2023-Present)
+    // Education: B.Tech ECE - KGEC (2025-Present)
     
     // Core Competencies
     parameter ELECTRONICS = 8'b11111111;
     parameter AI_ML = 8'b11111111;
     parameter ROBOTICS = 8'b11111111;
-    parameter RTL_GDS = 8'b11111111;
     
     // Current Focus Areas
     parameter ROS2 = 8'b11111111;
-    parameter DIGITAL_DESIGN = 8'b11111111;
-    parameter AUTONOMOUS_SYSTEMS = 8'b11111111;
+    parameter WEB_DEV = 8'b11111111;
+    parameter AI/ML = 8'b11111111;
     
     always @(*) begin
         if (passion && skills == 8'b11111111) begin
@@ -54,9 +53,9 @@ endmodule
 <td width="50%">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SoumyadeepDasKGEC-29&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SoumyadeepDasKGEC-29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadeepDasKGEC-29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SoumyadeepDasKGEC-29&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SoumyadeepDasKGEC-29&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadeepDasKGEC-29&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </td>
 </tr>
@@ -82,7 +81,7 @@ endmodule
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SoumyadeepDasKGEC-29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Projects & Professional Journey
+## 🎬Projects & Professional Journey
 
 <table>
 <tr>
@@ -131,9 +130,9 @@ endmodule
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/soumyadeepdaskgec-29/SoumyadeeoDasKGEC-29/output/github-contribution-grid-snake-dark.svg" alt="Snake contributions dark"/>
-</p>
+</p> -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
