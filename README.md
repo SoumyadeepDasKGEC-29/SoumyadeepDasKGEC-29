@@ -93,29 +93,34 @@ endmodule
 
 | **Project** | **Tech** | **Impact** |
 |-------------|----------|------------|
-| 🛰 **ISRO Mars Drone** | Pixhawk, Raspberry Pi | 90%+ stability |
-|  **e-Yantra Warehouse** | ROS2, CRSF | Millimeter precision |
-|  **Smart Security** | ESP32-CAM, Flask | Real-time monitoring |
-|  **Air Canvas** | OpenCV, Python | Real-time tracking |
-|  **FPGA Design** | Verilog, Xilinx | Hardware optimization |
+|  **Waste Management system** | HTML, CSS, Python | Dashboard based website |
+|  - | - | - |
+|  - | - | - |
+|  - | - | - |
+|  - | - | - |
 
 </small>
 
-</td>
+<table>
+<tr>
 <td width="50%">
 
-### Work Experience & Achievements
+### Work Experience 
 <small>
 
 | **Organization** | **Role** | **Duration** |
 |------------------|----------|--------------|
-| **KGEC Robotics Society** | Member (Former Intern) | Mar 2024 – Present |
-| **ADAOVI Technology** | AI/ML Intern | Jan 2024 – Mar 2024 |
+| **KGEC Robotics Society** | Intern(Dune Rover Project) | Dec 2025 – Present |
+| **KGEC Robotics Society** | Intern | Dec 2025 – Present |
+| **KGEC Robotics Society** | IRoC-U'26 College Team Member | Dec 2025 – Present |
 
-#### Certifications & Learning
-- **Quantum Computing** - CDAC & IIT Roorkee
-- **IBM Skills Build** - ML/DL/NLP
-- **TensorFlow, Scikit-learn** - ADAOVI
+</td>
+<td width="50%">
+  
+#### Certifications & Acievements
+-
+- 
+- **.....** - .....
 
 </small>
 
@@ -131,7 +136,7 @@ endmodule
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SoumyadeepDasKGEC-29&limit=5&theme=radical&combine_all_yearly_contributions=true)
