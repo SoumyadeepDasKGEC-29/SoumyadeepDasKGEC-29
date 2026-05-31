@@ -93,10 +93,10 @@ endmodule
 ### Featured Projects
 <small>
 
-| **Project** | **Tech** | **Impact** |
-|-------------|----------|------------|
-|  **Waste Management system** | HTML, CSS, Python | Dashboard based website |
-|  **Smart Agriculture management system** | ESP32,Blynk Console | Smart Irrigation system |
+| **Project** | **Tech** | **Impact** | **Participation**
+|-------------|----------|------------|-------------------|
+|  **Waste Management system** | HTML, CSS, Python | Dashboard based website | Sristi'25,JGEC |
+|  **Smart Agriculture management system** | ESP32,Blynk Console | Smart Irrigation system | Zyro'26, KGEC |
 |  - | - | - |
 |  - | - | - |
 |  - | - | - |
