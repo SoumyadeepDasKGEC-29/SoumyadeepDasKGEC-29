@@ -88,9 +88,7 @@ endmodule
 
 ## 🎬Projects & Professional Journey
 
-<table>
-<tr>
-<td width="50%">
+
 
 ### Featured Projects
 <small>
