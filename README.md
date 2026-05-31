@@ -98,7 +98,7 @@ endmodule
 | **Project** | **Tech** | **Impact** |
 |-------------|----------|------------|
 |  **Waste Management system** | HTML, CSS, Python | Dashboard based website |
-|  - | - | - |
+|  **Smart Agriculture management system** | ESP32,Blynk Console | Smart Irrigation system |
 |  - | - | - |
 |  - | - | - |
 |  - | - | - |
@@ -122,8 +122,8 @@ endmodule
 <td width="50%">
   
 #### Certifications & Acievements
--
-- 
+- Finalist --- **Zyro'26** - Hardware Hackathon of Kalyani Govt. Engg. College
+- Finalist --- **Paradium Shift'25** - Hackathon of Tech fest(Sristi'25) of Jalpaiguri Govt. Engg. College
 - **.....** - .....
 
 </small>
