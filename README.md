@@ -105,9 +105,7 @@ endmodule
 
 </small>
 
-<table>
-<tr>
-<td width="50%">
+
 
 ### Work Experience 
 <small>
@@ -128,9 +126,7 @@ endmodule
 
 </small>
 
-</td>
-</tr>
-</table>
+
 
 
 ---
